@@ -76,7 +76,6 @@ const webpackConfig = {
 		libraryTarget: 'this',
 		jsonpFunction: '__wcAdmin_webpackJsonp',
 	},
-	// externals,
 	module: {
 		rules: [
 			{
